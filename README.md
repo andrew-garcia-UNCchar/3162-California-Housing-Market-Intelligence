@@ -14,7 +14,7 @@ For this project, our team will analyze California housing data to identify patt
 - Angelina Dobbins
 
 ## Tools
-- KNIME or Python (to be determined)
+- KNIME & Python
 - GitHub for collaboration and version control
 
 ## Communication
